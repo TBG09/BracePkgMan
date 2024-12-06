@@ -1,0 +1,18 @@
+{
+  "apps": {
+    "CheckELF": {
+      "name": "CheckELF",
+      "linux-x86_64": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckELF_x86_64",
+      "linux-x86": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckELF_86",
+      "win-64": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckELF_x64.exe",
+      "win-32": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckELF_x86.exe"
+    },
+    "CheckPE": {
+      "name": "CheckPE",
+      "linux-x86_64": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckPE_x86_64",
+      "linux-x86": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckPE_86",
+      "win-64": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckPE_x64.exe",
+      "win-32": "https://github.com/TBG09/BracePkgMan/releases/download/MainRelase/CheckPE_x86.exe"
+    }
+  }
+}
